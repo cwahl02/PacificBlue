@@ -1,2 +1,5 @@
 <Solution>
+  <Project Path="src/PacificBlue.Api/PacificBlue.Api.csproj" Id="8a1d4305-b70f-4a97-a67a-c4b007f62871" />
+  <Project Path="src/PacificBlue.Web/PacificBlue.Web.Client/PacificBlue.Web.Client.csproj" Id="a21741c6-b289-4e60-919e-cfecf4268270" />
+  <Project Path="src/PacificBlue.Web/PacificBlue.Web/PacificBlue.Web.csproj" Id="d67e185c-e28b-4dee-a890-0d70091ad13e" />
 </Solution>
